@@ -8,7 +8,7 @@ The goal of this application is to provide a fun and educational experience, all
 
 ## Live Demo
 
-You can explore the project online through this [Demo Link](https://app.netlify.com/sites/bill-gates-ptkka/deploys/).
+You can explore the project online through this.
 
 ## Features
 
